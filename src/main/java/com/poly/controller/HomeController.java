@@ -31,7 +31,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 
 @Controller
-
+//HomeController
 public class HomeController {
 	@Autowired
 	HttpServletRequest req;
